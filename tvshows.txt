@@ -4,3 +4,5 @@ S02 => S01
 S01E <> 1080p >> EP + 12
 #瑞草洞
 Law and the City => 瑞草洞
+S01E <> 1080p >> EP
+S01E <> 2160p >> EP
