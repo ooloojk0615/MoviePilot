@@ -14,3 +14,5 @@ Wo De Shi Xiong Tai Qiang Le S01 => 我的师兄太强了 S01
 Soul Land S02 => 斗罗大陆Ⅱ绝世唐门 S01
 # 诡秘之主
 Lord of Mysteries S01 => 诡秘之主 S01
+# 吞噬星空
+Swallowed Star S05 => 吞噬星空 S01
