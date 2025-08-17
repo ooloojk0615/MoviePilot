@@ -12,3 +12,5 @@ Kaiju No 8 S02 => 怪兽8号 S01 && S01E <> 1080p >> EP + 12
 Wo De Shi Xiong Tai Qiang Le S01 => 我的师兄太强了 S01
 # 斗罗大陆Ⅱ绝世唐门
 Soul Land S02 => 斗罗大陆Ⅱ绝世唐门 S01
+# 诡秘之主
+Lord of Mysteries S01 => 诡秘之主 S01
